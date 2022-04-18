@@ -705,9 +705,6 @@ iframe {
   border-radius: 20px;
   padding: 50px 60px;
 }
-.li-4 {
-  padding-left: 30px;
-}
 
 
 
@@ -853,6 +850,9 @@ iframe {
   }
 }
 @media (max-width: 950px) {
+  .li-4 {
+    padding-left: 30px;
+  }
 
   iframe {
     max-width: 556px;
